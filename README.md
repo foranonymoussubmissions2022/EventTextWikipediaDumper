@@ -11,7 +11,7 @@ Download Wikipedia dump files below "Articles, templates, media/file description
 Create a configuration file like the following to state where to store your results, and the languages and dumps to be used for extraction:
 
 ```
-data_folder	/home/....../data
+data_folder	/home/....../data/raw
 languages	en
 ```
 
